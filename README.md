@@ -17,4 +17,4 @@ npm run start
 ```
 
 ## Screenshot
-![Page](https://github.com/aikon001/Polygon-Allowlist/blob/master/screen.png)
+![Page](https://github.com/aikon001/Allowlist-Polygon/blob/master/screen.png)
